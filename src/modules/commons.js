@@ -29,7 +29,7 @@ const FIRETRAY_VERSION     = "0.6.5"; // needed for sync call of onVersionChange
 const FIRETRAY_OS_SUPPORT  = ['freebsd', 'linux', 'winnt']; // install.rdf sync :(
 const FIRETRAY_ID          = "{9533f794-00b4-4354-aa15-c2bbda6989f8}";
 const FIRETRAY_PREF_BRANCH = "extensions.firetray.";
-const FIRETRAY_SPLASH_PAGE = "http://foudfou.github.com/FireTray/";
+const FIRETRAY_SPLASH_PAGE = "https://github.com/Ximi1970/FireTray";
 
 const FIRETRAY_APPLICATION_ICON_TYPE_THEMED = 0;
 const FIRETRAY_APPLICATION_ICON_TYPE_CUSTOM = 1;
